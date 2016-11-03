@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Rails mt-rails-app: production" uuid="ef43a131-6aa7-446d-81bb-16297d4b5cf2">
+      <user-name>mt-rails-app</user-name>
+      <user-password>df96df8fdf97df8adfefdfe4dffcdff1df8ddfe7dffedf87dff8dfebdfe3dfe6dff9df87dfebdffadffadff5dfeedfebdffedfebdfe8dfebdff9dfefdff5dffadfebdff9dff9dffddfe5dff8dfeedf8ddff7df8adf8fdf94</user-password>
+    </data-source>
+    <data-source name="Rails mt-rails-app: development" uuid="ea779dac-8c08-463d-ab9f-bdb60818ac05">
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails mt-rails-app: test" uuid="385cabce-c333-477b-a79b-57f8039477bd" />
+  </component>
+</project>
